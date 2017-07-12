@@ -1,0 +1,3 @@
+hibernate\test\TestHibernate.class
+hibernate\test\dto\EmployeeEntity.class
+hibernate\test\HibernateUtil.class
